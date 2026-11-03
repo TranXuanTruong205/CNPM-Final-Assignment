@@ -1,2 +1,6 @@
 ADD
+<<<<<<< HEAD
 MUL
+=======
+SUB
+>>>>>>> 95af591 ([CDPM-02] Add subtraction feature)
